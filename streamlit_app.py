@@ -2,7 +2,7 @@ import streamlit as st
 from streamlit_drawable_canvas import st_canvas
 import cv_app
 
-st.title("OpenCV Webinar Series")
+st.title("Hand written Digit identification")
 st.header("Digit Recognizer using OpenCV and Streamlit")
 st.write("Draw a digit over the canvas and click Predict")
 
