@@ -1,3 +1,3 @@
-# OpenCV Webinar Series | Digit Recognizer using OpenCV and Streamlit
+# Digit Recognizer using OpenCV and Streamlit
 
-Demo: https://share.streamlit.io/bigvisionai/streamlit-digit-recognizer/main
+Demo: https://sudeep-singh-faridabad-streamlit-digit-rec-streamlit-app-jnkyby.streamlit.app
